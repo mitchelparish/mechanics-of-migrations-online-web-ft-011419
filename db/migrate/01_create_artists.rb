@@ -11,6 +11,6 @@ class CreateArtists < ActiveRecord::Migration
       t.string :genre           # Here we define our columns/datatypes 
       t.integer :age
       t.string :hometown
-    end 
+    end
   end
 end
